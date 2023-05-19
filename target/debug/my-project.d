@@ -1,1 +1,1 @@
-/home/runner/Rust/target/debug/my-project: /home/runner/Rust/src/main.rs
+/home/runner/rust-joke-cli/target/debug/my-project: /home/runner/rust-joke-cli/src/main.rs
